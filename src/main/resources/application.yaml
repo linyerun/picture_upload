@@ -1,0 +1,10 @@
+server:
+  port: 9999
+
+spring:
+  application:
+    name: picture-upload
+
+pic:
+  host: http://192.168.1.133
+  path: /www/pictures
